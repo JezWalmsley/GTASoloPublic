@@ -19,7 +19,7 @@ if pid is None:
     time.sleep(5)
     exit()
 
-# SUSpend Process then resume
+# (SUS)pend Process then resume
 
 print("GTA Process found")
 
